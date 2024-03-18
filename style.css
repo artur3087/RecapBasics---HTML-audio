@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+p {
+    color: white;
+    margin-left: 40px;
+}
+
+audio {
+    background-color: darkgray;
+    opacity: 80%;
+    border-radius: 50px;
+    width: 400px;
+    margin-left: 20px;
+    border-style: double;
+    border-color: red;
+}
+
